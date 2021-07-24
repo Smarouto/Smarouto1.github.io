@@ -1,0 +1,33 @@
+body{
+  background-image: url('https://img.freepik.com/free-vector/flowing-speed-lines-technology-background_1017-31772.jpg?size=626&ext=jpg&ga=GA1.2.1656882163.1626998400');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 25px;
+}
+h3{
+    font-weight: bolder;
+    color: gray;
+}
+ol{
+  color: gray;
+  line-height: 35px;
+}
+.answers{
+  text-decoration: none;
+  color: skyblue;
+  font-size: 21px;
+  margin-bottom: 25px;
+}
+.next{
+  background-size: 150px;
+  border-radius: 7px;
+  background-color: white;
+  font-size: 30px;
+  margin-left: 90%;
+  line-height: 1200px;
+  text-decoration: none;
+}
+.next:hover{
+color: red;
+background-color: yellow;
+}
